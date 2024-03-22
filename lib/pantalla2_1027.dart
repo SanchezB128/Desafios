@@ -8,16 +8,43 @@ class Pantalla2_1027 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pantalla2 Sanchez1027"),
-        backgroundColor: Colors.orange,
+        title: const Text("Pantalla2 Sanchez1027"),
+        backgroundColor: const Color(0xffea58c6),
       ),
       body: Center(
           child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          ElevatedButton(
-            onPressed: () {}, //si preciona boton
-            child: Text("Pantalla"),
+          Container(
+            height: 130,
+            width: double.infinity,
+            decoration: const BoxDecoration(
+              color: Color(0xff580034),
+              borderRadius: BorderRadius.only(
+                bottomRight: Radius.circular(50),
+                bottomLeft: Radius.circular(50),
+              ),
+              boxShadow: [
+                BoxShadow(
+                  color: Color(0xAA6EB1E6),
+                  offset: Offset(9, 9),
+                  blurRadius: 6,
+                ),
+              ],
+            ),
+            alignment: Alignment.center,
+            child: const Text(
+              'Braulio Roberto',
+              style: TextStyle(
+                fontSize: 38,
+                color: Colors.white,
+              ),
+            ),
+          ),
+          const Text(
+            "Desafio2 Mat. 20308051281027",
+          ),
+          const Text(
+            "Braulio Roberto Sanchez Gonzalez",
           )
         ],
       )),
