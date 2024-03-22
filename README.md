@@ -19,9 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ##CAPTURAS
-![image](https://github.com/SanchezB128/p14Card1027/assets/143743573/5c2aa3ba-63b9-4a94-b041-f86df1181b3a)
-![image](https://github.com/SanchezB128/p14Card1027/assets/143743573/eb64485e-6185-453c-815b-687d0e4e746a)
-![image](https://github.com/SanchezB128/p14Card1027/assets/143743573/2bba852c-f3a9-43a1-b742-fba8443ede30)
+
+![image](https://github.com/SanchezB128/Desafios/assets/143743573/41845e5e-0b3c-4456-8390-62515ca59555)
+![image](https://github.com/SanchezB128/Desafios/assets/143743573/31f4fb2f-dd44-402f-b5aa-1aaba50be396)
+![image](https://github.com/SanchezB128/Desafios/assets/143743573/fe711c96-0b0c-4142-b80b-3768b0cb2260)
+
+
 
 ##LINKS REFERENCIA
 https://docs.flutter.dev/ui/widgets
